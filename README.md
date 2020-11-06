@@ -1,5 +1,5 @@
-# -C-C-lculo-entre-dois-pontos.
-Linguagem C - Cálculo entre dois pontos utilizando pitágoras.
+Código feitos na linguagem (C).
 
-Código que obtém o valor da distância entre dois pontos no plano cartesiano.
-As variáveis são floats (x1, y1, x2, y2) --> as coordenadas nos eixos das ordenadas e das abcissas.
+Estudos realizados fora da UDESC - CCT.
+
+Livro base --> Algoritmos e Lógica de Programação em C - Uma abordagem Didática, Silvio do Lago Pereira.
